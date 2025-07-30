@@ -29,8 +29,11 @@
 
 # ![Application Programming Interfaces](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS)
 
-1. ![Graphql API](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/graphql-api)
-2. ![basic nodejs ecommerce api](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/ecommerce-api)
+## 1. ![Graphql API](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/graphql-api)
+1. ![diagrama](https://raw.githubusercontent.com/0xInterruptHandler/Back-end/refs/heads/main/APIS/graphql-api/diagrama-flujo-query-graphql.png)
+
+
+## 2. ![basic nodejs ecommerce api](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/ecommerce-api)
 
 
 
