@@ -27,10 +27,15 @@
 </div>
 
 
-# Application Programming Interfaces
+# ![Application Programming Interfaces](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS)
 
-https://github.com/0xInterruptHandler/Back-end/tree/main/APIS 
+1. ![Graphql API](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/graphql-api)
+2. ![basic nodejs ecommerce api](https://github.com/0xInterruptHandler/Back-end/tree/main/APIS/ecommerce-api)
 
-# Database Modeling
 
-https://github.com/0xInterruptHandler/Back-end/tree/main/modelamiento-bases-de-datos
+
+
+# ![Database Modeling](https://github.com/0xInterruptHandler/Back-end/tree/main/modelamiento-bases-de-datos)
+
+1. ![Hotel Database modeling exercise](https://github.com/0xInterruptHandler/Back-end/blob/main/modelamiento-bases-de-datos/HotelDBmodel.png)
+
